@@ -1,0 +1,4 @@
+Vaga8_Placa: 3216547;
+Vaga8_Data: 27/09/2019 12:32:36;
+Vaga8_Veiculo: Carro;
+
