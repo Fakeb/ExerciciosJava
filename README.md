@@ -1,1 +1,3 @@
-Exercícios feitos em aula com NetBeans no 3° semestre e 4° semestre do curso de Ciência da computação.
+# Exercícios em Java
+
+- Exercícios resolvidos em aula no curso de Ciência da computação.
